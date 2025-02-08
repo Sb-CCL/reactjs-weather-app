@@ -2,6 +2,8 @@
 
 A weather application that allows you to search weather conditions for cities worldwide.
 
+![Weather App Screenshot](./screenshot.png)
+
 ## ✨ Features
 
 - **Dark UI Design**: Dark themed weather application.
