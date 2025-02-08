@@ -1,6 +1,6 @@
 # React.js Weather App - Dark Theme 🌙
 
-A sleek and responsive weather application that allows users to search for weather conditions in cities worldwide.
+A sleek and responsive weather application that allows users to search for weather conditions worldwide.
 
 ![Weather App Screenshot](./screenshot.png)
 
