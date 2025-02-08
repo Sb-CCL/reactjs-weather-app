@@ -1,4 +1,4 @@
-# React.js Weather - Dark Style 🌤️
+# React.js Weather App - Dark Theme 🌙
 
 A weather application that allows you to search weather conditions for cities worldwide.
 
@@ -8,12 +8,13 @@ A weather application that allows you to search weather conditions for cities wo
 
 - **Dark UI Design**: Dark themed weather application.
 - **City Search**: Find weather by city name (e.g., "Atlanta, GA" or "Tokyo, JP").
+- **Real-Time API Fetching**: Data updates dynamically using OpenWeatherMap API.
 - **Dynamic Weather Display**: Shows temperature (°C), conditions, and city name.
 - **Responsive Design**: Works seamlessly on modern browsers.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, JavaScript
+- **Frontend**: React.js (Vite)
 - **Styling**: Tailwind CSS
 - **HTTP Client**: Axios
 - **Weather API**: OpenWeatherMap
