@@ -29,7 +29,7 @@ A sleek and responsive weather application that allows users to search for weath
 ## Customization
 
 - You can modify the `API_KEY` in the JavaScript file to use your own OpenWeatherMap API key.
-- Customize the colors and UI by modifying the Tailwind CSS classes in the `index.html` file.
+- Customize the colors and UI by modifying the Tailwind CSS classes.
 
 ## Folder Structure
 
